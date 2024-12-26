@@ -22,7 +22,7 @@ function Mission({ width: width }) {
     },
   ];
   return (
-    <div className="space-y-12 mx-auto" style={{ width: width }}>
+    <div className="space-y-12 pb-60 mx-auto" style={{ width: width }}>
       <button className="border hover:font-semibold border-[#23BDEE] px-12 flex mx-auto text-[#23BDEE] hover:bg-[#23BDEE] hover:text-white rounded-2xl py-1 duration-500">
         Mission
       </button>
